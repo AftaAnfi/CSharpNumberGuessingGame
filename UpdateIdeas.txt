@@ -1,0 +1,6 @@
+Add statistics to the game
+Add a better start menu
+
+Better flow to the number guessing
+Multiple different types
+More color
